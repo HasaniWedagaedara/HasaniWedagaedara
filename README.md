@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hasani Madhumali</h1>
 <h3 align="center">Recently completed the Degree in Computer Engineering Faculty of Engineering, University of Ruhuna</h3>
 
+<p align="center">
+  <img src="cover image.png"  alt="Hasani Madhumali" />
+</p>
+
+
 - 🔭 I’m currently working on **Full-Stack Web & Mobile Applications Building scalable web apps with React + TypeScript and mobile apps using React Native, while contributing to backend features and APIs.**
 
 - 🌱 I’m currently learning **Advanced TypeScript, Backend development & API design DevOps fundamentals (Docker, CI/CD)**
