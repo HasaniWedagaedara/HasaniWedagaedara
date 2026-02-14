@@ -14,13 +14,13 @@ A software developer passionate about web and mobile application development. Ex
 
 - 🔭 I’m currently working on **Full-Stack Web & Mobile Applications Building scalable web apps with React + TypeScript and mobile apps using React Native, while contributing to backend features and APIs.**
 
-- 🌱 I’m currently learning **Advanced TypeScript, Backend development & API design DevOps fundamentals (Docker, CI/CD)**
+- 🌱 I’m currently learning **Backend development & API design DevOps fundamentals (Docker, CI/CD)**
 
-- 👯 I’m looking to collaborate on **Open-source Web or Mobile Projects Especially projects related to React, React Native, TypeScript, or backend APIs.**
+- 👯 I’m looking to collaborate on **Projects Especially related to React, TypeScript, or backend APIs.**
 
 - 🤝 I’m looking for help with **Advanced Backend & DevOps Practices Improving system design, API optimization, and deployment workflows (Docker, CI/CD).**
 
-- 💬 Ask me about **React, React Native, TypeScript, frontend architecture, and building real-world apps**
+- 💬 Ask me about **React, JavaScript, frontend architecture, and building real-world apps**
 
 <h2 align="left">Work Experience</h2>
 
